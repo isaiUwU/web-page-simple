@@ -25,6 +25,7 @@ button{
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
     color: white;
     background-color: blueviolet;
+    cursor: pointer;
 }
 
 button:hover{
@@ -47,6 +48,7 @@ header .logo{
     font-weight: bold;
     color: blueviolet;
     font-size: 1.6em;
+    cursor: pointer;
 }
 
 header .container{
